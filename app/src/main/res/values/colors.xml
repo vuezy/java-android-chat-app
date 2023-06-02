@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_rose">#75003A</color>
+    <color name="rose">#FF007F</color>
+    <color name="light_rose_1">#FF5CAD</color>
+    <color name="light_rose_2">#FF8AC4</color>
+    <color name="rose_quartz">#FADCD9</color>
+    <color name="cream">#FDF8F0</color>
+    <color name="black">#140005</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ivory">#E2DED0</color>
+</resources>
